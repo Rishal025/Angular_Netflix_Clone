@@ -1,3 +1,3 @@
 #Netflix clone
 
-I am doing this Netflix clone as a part of learning Angular. 
+I have one this Netflix clone as a part of learning Angular. 
